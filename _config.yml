@@ -21,14 +21,14 @@
 title: Thibaut Benjamin
 email: thibaut.benjamin@polytechnique.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student at [Lix](https://www.lix.polytechnique.fr/), Ecole Polytechnique
+  PhD student at Lix, Ecole Polytechnique
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThibBen5
 github_username:  thibautbenjamin
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
