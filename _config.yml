@@ -1,0 +1,12 @@
+theme: academic
+
+
+title: Thibaut BENJAMIN
+description: PhD student in Computer Science at Ecole Polytechnique
+email: thibaut.benjamin@polytechnique.edu
+github_username: ThiBen
+curriculum:
+  name: CV
+  url: cv.pdf
+
+baseurl: /~tbenjamin/
