@@ -28,7 +28,7 @@ twitter_username: ThibBen5
 github_username:  thibautbenjamin
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
