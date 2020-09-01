@@ -1,3 +1,4 @@
+
 # academic
 
 Academic is a [Jekyll](http://jekyllrb.com/) theme with a focus on simplicity, typography and flexibility.
