@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+Adding content to the default page
