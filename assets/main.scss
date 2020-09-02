@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/**
+ * Homepage
+ */
+
+.homepage-col-wrapper {
+    @include relative-font-size(0.9375);
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+}
+
+
+.homepage-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+
+.homepage-info{
+    width: -webkit-calc(38% - (#{$spacing-unit} / 2));
+    width:         calc(38% - (#{$spacing-unit} / 2));
+
+}
+
+.homepage-content{
+    @extend .post-content;
+    width: -webkit-calc(62% - (#{$spacing-unit} / 2));
+    width:         calc(62% - (#{$spacing-unit} / 2));
+}
+
+/**
+* Reajust footer columns
+*/
+
+.footer-col-1 {
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+}
