@@ -20,6 +20,7 @@
 
 title: Thibaut Benjamin
 email: thibaut.benjamin@polytechnique.edu
+printed_email: thibaut.benjamin(AT)polytechnique.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student at Lix, Ecole Polytechnique
 baseurl: "" # the subpath of your site, e.g. /blog

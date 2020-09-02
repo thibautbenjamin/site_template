@@ -22,15 +22,15 @@
 }
 
 .homepage-info{
-    width: -webkit-calc(38% - (#{$spacing-unit} / 2));
-    width:         calc(38% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
 
 }
 
 .homepage-content{
     @extend .post-content;
-    width: -webkit-calc(62% - (#{$spacing-unit} / 2));
-    width:         calc(62% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
 }
 
 /**
