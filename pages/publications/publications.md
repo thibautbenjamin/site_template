@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 --- 
 #### A type theoretic approach to weak omega-categories and related higher structures
-*PhD thesis, to be defended on Nov. 5th, 2020 (final version may differ slightly)*
+*PhD thesis, to be defended on Nov. 5th, 2020 (final version may differ slightly)*  
 [manuscript](these.pdf)
 
 #### Weak omega-categories as models of a type theory,
