@@ -1,0 +1,23 @@
+.page-content {
+    ul {
+        list-style-type: none;
+        margin-left: 0px;
+        h3, h4, h5{
+            margin-bottom: 0px;
+        }
+    }
+
+    ul li {
+        border-bottom: 1px solid $grey-color-light;
+    }
+
+    ul li:last-child {
+        border-bottom: none;
+    }
+}
+
+.homepage-info {
+    ul li {
+        border-bottom: none;
+    }
+}
