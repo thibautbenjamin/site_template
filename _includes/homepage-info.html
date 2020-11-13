@@ -1,15 +1,15 @@
 <ul class="contact-list">
-    <li class="p-name">
-        <h3>
+    <h2 class = "info-heading">
+    <li>
             {%- if site.author -%}
             {{ site.author | escape }}
             {%- else -%}
             {{ site.title | escape }}
             {%- endif -%}
-        </h3>
     </li>
+    </h2>
     {%- if site.picture -%}
-    <li><img src={{ site.picture }}></li>
+    <li><img src={{ site.picture }} class="info-picture"></li>
     {%- endif -%}
     {%- if site.cv -%}
     <li> <a href="{{ site.cv }}"><span class="icon">{% include icon-cv.svg %}</span><span class="username">CV</span></a></li>

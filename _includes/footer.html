@@ -7,6 +7,10 @@
 
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1">
+                <p>{{- site.description | escape -}}</p>
+            </div>
+
+            <div class="footer-col footer-col-2">
                 <ul class="contact-list">
                     {%- if site.cv -%}
                     <li> <a href="{{ site.cv }}"><span class="icon">{% include icon-cv.svg %}</span><span class="username">CV</span></a></li>
@@ -17,13 +21,10 @@
                 </ul>
             </div>
 
-            <div class="footer-col footer-col-2">
+            <div class="footer-col footer-col-3">
                 {%- include social.html -%}
             </div>
 
-            <div class="footer-col footer-col-3">
-                <p>{{- site.description | escape -}}</p>
-            </div>
 
 
         </div>

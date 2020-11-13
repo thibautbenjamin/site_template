@@ -3,6 +3,8 @@
 ---
 
 @import "minima";
+@import "colors";
+@import "lists";
 
 /**
  * Homepage
@@ -22,32 +24,43 @@
 }
 
 .homepage-info{
-    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width:         calc(40% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(42% - (#{$spacing-unit} / 2));
+    width:         calc(42% - (#{$spacing-unit} / 2));
 
 }
 
 .homepage-content{
     @extend .post-content;
-    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-    width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(58% - (#{$spacing-unit} / 2));
+    width:         calc(58% - (#{$spacing-unit} / 2));
 }
+
+.info-picture {
+    max-width: 70%;
+    text-align: center;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /**
 * Reajust footer columns
 */
 
 .footer-col-1 {
-    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width:         calc(40% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-    width:         calc(40% - (#{$spacing-unit} / 2));
-}
