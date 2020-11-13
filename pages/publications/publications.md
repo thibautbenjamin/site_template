@@ -9,7 +9,7 @@ permalink: /publications/
   [manuscript](these.pdf)
 
 - #### Weak omega-categories as models of a type theory
-  **Preliminary version - Expect regular updates, potential typos and layout problems, but the overall content should stay fixed**  
+  **Preliminary version** - Expect regular updates, potential typos and layout problems, but the overall content should stay fixed  
   [preprint](models.pdf)
 
 -  #### Monoidal weak omega-categories as models of a type theory
