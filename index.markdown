@@ -6,9 +6,9 @@ layout: homepage
 title: About Me
 ---
 
-I am a PhD student at [LIX](https://www.lix.polytechnique.fr), Ecole Polytechnique in the Cosynus team, under the supervision of [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram//) and [Eric Finster](http://ericfinster.github.io/).
+I am a doctor in Computer Science from [LIX](https://www.lix.polytechnique.fr), Ecole Polytechnique in the Cosynus team, under the supervision of [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram//) and [Eric Finster](http://ericfinster.github.io/), and soon to be postdoctorate researcher in CEA LIST.
 
-I work mostly on the theorem prover for higher categories [CaTT](https://thiben.github.io/catt/), and the theory behind it, mostly related to higher category theory and type theory.
+My PhD thesis is mostly centered on the theorem prover for higher categories [CaTT](https://thiben.github.io/catt/), and the theory behind it, relating to higher category theory and type theory.
 
 ### Research Interests
 My main interests revolve around higher dimensional algebra in general and
