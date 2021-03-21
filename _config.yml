@@ -37,7 +37,7 @@ plugins:
 
 # List here the header pages you create
 header_pages:
-  - pages/
+  - pages/hello.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
